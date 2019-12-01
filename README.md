@@ -6,6 +6,9 @@ The implementation of NMF algorithms and the analysis of their robustness agains
 ## Report 
 Experiment results are recorded in "Analysis of the robustness of NMF algorithms.pdf" 
 
+## Result
+![Exp_results](https://github.com/linjiejim/NMFalgorithm_Analysis/blob/master/results.png?raw=true)
+
 ## Run
 1. Add dataset "ORL" and "YaleB" to 'data/'.
 2. In the Experiment Materials Cell, choose one dataset 'YaleB' or 'ORL', and choose the additive type of noise, including 'Guassian', 'Laplace' and 'Block'.
